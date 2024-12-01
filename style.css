@@ -409,7 +409,7 @@ header .logo a h1 span {
   -ms-flex-pack: distribute;
       justify-content: space-around;
   overflow: hidden;
-  background: url(back-img.jpg), -webkit-gradient(linear, left top, left bottom, from(rgba(0, 0, 0, 0.7)), to(rgba(0, 0, 0, 0.7)));
+  background: url(./images/eq2.webp), -webkit-gradient(linear, left top, left bottom, from(rgba(0, 0, 0, 0.7)), to(rgba(0, 0, 0, 0.7)));
   background: url(./images/eq2.webp), linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7));
   background-repeat: no-repeat;
   background-size: cover;
